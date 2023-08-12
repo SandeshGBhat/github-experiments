@@ -10,4 +10,4 @@ jobs:
     steps:
       - name: merge
         run: |
-          gh pr merge ${{ github. ref_name }} -m -d
+          gh pr merge ${{ github.ref_name }} -m -d

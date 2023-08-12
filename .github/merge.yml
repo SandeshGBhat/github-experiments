@@ -1,0 +1,9 @@
+name: Merge Pull Request
+on: pull_request
+jobs:
+  Start:
+    runs-on: ubuntu-latest
+    steps:
+      - name: merge
+        run: |
+          gh pr merge ${{ github. ref_name }} -m -d

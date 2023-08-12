@@ -3,8 +3,6 @@ on: pull_request
 jobs:
   Start:
     runs-on: ubuntu-latest
-    permissions:
-      pull-requests: write
     steps:
       - uses: actions/checkout@v3
       - name: generate token

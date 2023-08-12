@@ -12,4 +12,4 @@ jobs:
       - name: merge
         run: |
           echo ${{ github.head_ref }}
-          gh pr merge ${{ github.head_ref }} -m -d
+          gh pr merge ${{ github.head_ref }} --admin -m -d

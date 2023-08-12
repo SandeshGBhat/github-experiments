@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: generate token
+      - name: get token
         id: get-token-app
         uses: getsentry/action-github-app-token@v2
         with:

@@ -1,5 +1,5 @@
-# github-test
-Repository to test gha and actions
+# github-experiments
+Repository to learn github authentication in actions and usage of github cli in the CI-CD pipeline
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id venenatis a condimentum vitae sapien pellentesque. Velit ut tortor pretium viverra. Faucibus in ornare quam viverra. Congue quisque egestas diam in arcu cursus euismod. Faucibus et molestie ac feugiat sed lectus vestibulum. Arcu odio ut sem nulla pharetra. Volutpat ac tincidunt vitae semper quis. Sit amet porttitor eget dolor morbi. Pretium viverra suspendisse potenti nullam ac tortor vitae purus. Lacus laoreet non curabitur gravida arcu ac tortor dignissim. Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Enim diam vulputate ut pharetra sit amet aliquam. Tortor vitae purus faucibus ornare.
 
 Vitae turpis massa sed elementum tempus egestas. Consectetur adipiscing elit duis tristique. Ornare arcu dui vivamus arcu felis. Velit dignissim sodales ut eu sem integer vitae justo. Malesuada bibendum arcu vitae elementum. Mus mauris vitae ultricies leo integer malesuada nunc vel risus. Nunc sed blandit libero volutpat sed cras. Dui accumsan sit amet nulla facilisi morbi tempus. Risus quis varius quam quisque id. Diam vulputate ut pharetra sit amet aliquam id diam maecenas. Ipsum nunc aliquet bibendum enim facilisis. Massa id neque aliquam vestibulum morbi blandit cursus.
